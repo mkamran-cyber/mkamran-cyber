@@ -1,16 +1,20 @@
-## Hi there 👋
+🔐 Cybersecurity Skills
+• SIEM — Splunk, QRadar, Microsoft Sentinel
+• Network Security — Wireshark, Nmap
+• Incident Response
+• Threat Intelligence
+• GRC — ISO 27001, NIST CSF
+• MITRE ATT&CK
 
-<!--
-**mkamran-cyber/mkamran-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧪 Cybersecurity Labs
+• Splunk SOC Lab
+• Windows Event Log Analysis
+• Firewall Log Analysis
+• SYN Flood Detection
+• Wireshark Traffic Analysis
 
-Here are some ideas to get you started:
+📜 Certifications
+ISO 27001 | comptia sec+ | Security Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with Me
+LinkedIn | GitHub
